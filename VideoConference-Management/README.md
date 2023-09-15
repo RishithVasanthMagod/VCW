@@ -1,5 +1,4 @@
 This is a multi-room multi-user video conference website with login system using NodeJS and webRTC. It also supports real time chat and poll in room using socketIO.
-
 webRTC is a free, open project that enables web browsers with Real-Time Communications (RTC) capabilities via simple JavaScript APIs.
 
 # Dependencies
@@ -17,14 +16,9 @@ webRTC is a free, open project that enables web browsers with Real-Time Communic
 
 Under debug mode, nodemon will auto-restart the project everytime changes are made in the source files.
 
-
-# demo
-youtube video demo: https://www.youtube.com/watch?v=2Qz2GjgKAIk
-
 # keywords
 Javascript,webRTC,SocketIO,NodeJS,MySQL
 
-# reference
-https://github.com/andyet/SimpleWebRTC
+
 
 
